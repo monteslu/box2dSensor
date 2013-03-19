@@ -1,20 +1,7 @@
-# Frozen Development Boilerplate for Box2d games
+# FrozenJS demo that makes use of box2d sensors
 
-## Getting started
 
-To get your environment set up, you need `node` and `npm`
 
-Install [`volo`](http://volojs.org/) (requires 0.2.7)
-
-```bash
-> npm install -g volo
-```
-
-Then use `volo create` to start a new project
-
-```bash
-> volo create new_project iceddev/frozen-dev-boilerplate
-```
 
 ## Development
 
